@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  email: "hello@asdf.com"
+  crypted_password: "9f064b4d3f07dfff15ddeae11166fb2051d3fd19a2ad46ac84160f3924fa1deb54cef0836dcefc621c34dbea9087d9104d2786a548e8e1ef9ef6053f4703b1cc" #password: curso
+  password_salt: "802vRUXrP8-GTBvvUWZP"
+  persistence_token: "15b3cc67d819774ecc0cb7ddc49b8acfd50e9e922a2985ddeb444195b3e06e83e22a5e344b2fdcf998261467f6efc135d2a4ccb6c9da8eabcb6bf43150106d74"
+  single_access_token: "25vCYKX83DWL7u8uj0bi"
+  perishable_token: "2wBNiayD_enDKcKNqGnQ"
+
+two:
+  email: "two@numbers.com"
+  crypted_password: "e5a055cac7a3fd01860f7d2b34b84fc4333779def03eeaa4c72685fd3cd106ba266d20ddb091b321ea70b49adf93695104e24cc69d8e72c96bb40e1c41e53fc7" #password: numbers
+  password_salt: "t_nMHJ8j7UpGKuRgv0l1"
+  persistence_token: "c3edc53a4712a876c38dadd171b9ed6138228f0c9b1f4c5d24b9620dabe3855d49fd7df48719240ce89f949a8e62f62bc0d6d56864bbd34a22cc99fbf2ca4356"
+  single_access_token: "ssOyOEYnkEAut045fXr_"
+  perishable_token: "eoIaF8Lx354OtlsfXL7L"
